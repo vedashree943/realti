@@ -1,0 +1,42 @@
+body{
+    background-image: url(1.jpg);
+    background-position: center;
+    background-size: cover;
+    }
+    .heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px purple;
+    }
+    .heading_div{
+    float: none;
+    background-color:mistyrose;
+    padding: 10px;
+    border-radius: 20px ;
+    color: black;
+    width: 980px;
+    }
+        .heading_div2{
+        font-size: 20px;
+        }
+        .result_para{
+        box-shadow: 5px 5px 5px powderblue;
+        font-size: 20px;
+        }
+        .footer{
+            position: fixed;
+            color: peru;
+            bottom: 0;
+            width: 100%;
+            background-color: palegreen;
+            line-height: 3;
+            text-align: center;
+            margin-top:35px ;
+        }
+        canvas{
+        border: 5px solid aliceblue;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px palegoldenrod;
+        margin-top: 200px;
+        }
